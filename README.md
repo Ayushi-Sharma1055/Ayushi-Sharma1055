@@ -1,3 +1,4 @@
+![logo](https://github.com/Ayushi-Sharma1055/Ayushi-Sharma1055/blob/main/EC_Data_Science_Technology_750.jpg)
 <h1 align="center">Hi 👋, I'm Ayushi Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
