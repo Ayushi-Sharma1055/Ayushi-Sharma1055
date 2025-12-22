@@ -1,4 +1,4 @@
-![logo](https://github.com/Ayushi-Sharma1055/Ayushi-Sharma1055/blob/main/64f78ee1d49618f094e64111_vationventures_datascience.jpeg)
+![logo](https://github.com/Ayushi-Sharma1055/Ayushi-Sharma1055/blob/main/images.jpg)
 <h1 align="center">Hi 👋, I'm Ayushi Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
