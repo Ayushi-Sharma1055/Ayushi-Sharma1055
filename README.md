@@ -7,6 +7,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushi-sharma1055" alt="ayushi-sharma1055" /></a> </p>
 
 - ⚡ Fun fact **I think I am punctual.**
+- ⚡ I love reading and learning.**
+- ⚡ I love clicking pictures of nature.**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
