@@ -5,14 +5,25 @@
 
 # 💫 About Me:<h1 align="center">Hi 👋, I'm Ayushi</h1>
   
--  I’m currently learning **Data Science**.
--  Learning and applying Python, Statistics, and Data Science fundamentals.
--  Worked with tools like **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**.
--  Passionate about converting raw data into meaningful insights.
--  Continuously learning new technologies and improving problem-solving skills.
--  Open to internships, projects, and collaborative opportunities
--  I am very punctual person.
--  I love clicking pictures of nature.
+# Hi, I'm Ayushi Sharma 👋
+
+### Data Science Student | Aspiring Data Scientist 🚀
+
+I'm passionate about transforming data into meaningful insights and exploring how AI and technology can solve real-world problems. I enjoy learning, building projects, and continuously expanding my technical knowledge.
+
+💻 **Tech Stack & Skills**
+
+- **Programming:** Advanced Python, SQL
+- **Data Analytics:** Power BI, Tableau, Excel, Statistics
+- **AI & Machine Learning:** Machine Learning, NLP, Neural Network Architectures
+- **Databases & Cloud:** MongoDB, AWS
+- **Computer Science:** Data Structures & Algorithms (DSA)
+
+🌱 **Currently focused on:** Exploring AI, strengthening my analytical skills, and building impactful Data Science projects.
+
+🤝 Always open to learning, collaboration, and new opportunities.
+
+*Curious mind. Data-driven thinking. Continuous growth.* ✨
 -  How to reach me **ayushi88615@gmail.com**
 
 ## 🌐 Connect me:
