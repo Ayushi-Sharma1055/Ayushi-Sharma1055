@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./data-science-banner.png" width="100%" alt="Data Science Banner">
+  <img src="./Data Science Journey Banner.png" width="100%" alt="Data Science Banner">
 
 <p align="left"> <img src="https://chatgpt.com/c/6ace023e-9dd0-83ee-b655-2dffb146f77d" /> </p>
 
