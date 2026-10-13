@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Ayushi-Sharma1055/Ayushi-Sharma1055/blob/main/images.jpg" width="100%" alt="GitHub Cover Image">
+  <img src="./data-science-banner.png" width="100%" alt="Data Science Banner">
 </p>
 
 <p align="left"> <img src="https://chatgpt.com/c/6ace023e-9dd0-83ee-b655-2dffb146f77d" /> </p>
