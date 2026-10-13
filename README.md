@@ -2,7 +2,7 @@
   <img src="https://github.com/Ayushi-Sharma1055/Ayushi-Sharma1055/blob/main/images.jpg" width="100%" alt="GitHub Cover Image">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nihal-kushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="nihal-kushwaha" /> </p>
+<p align="left"> <img src="https://chatgpt.com/c/6ace023e-9dd0-83ee-b655-2dffb146f77d" /> </p>
 
 # 💫 About Me:<h1 align="center">Hi 👋, I'm Ayushi</h1>
   
